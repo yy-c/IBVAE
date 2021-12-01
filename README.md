@@ -5,4 +5,5 @@ Unsupervised learning is based on latent variables with potential generative fac
 
 
 If you have any questions or suggestions, welcome to contact us by email.
+
 E-mail: yang.caoyy@gmail.com
